@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.m \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/ios/build/quizzr/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryView.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryViewContent.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
+  /Users/glaydsoncosta/jobs/code_challenges/g2i/code-challenge-glaydson-costa/quizzr/node_modules/react-native/Libraries/Text/TextInput/RCTTextSelection.h
